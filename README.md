@@ -4,9 +4,9 @@ In depth EDA Analysis of Walt Disney Studios from 1937 to 2016.  This dataset co
 
 The data contains 579 Disney movies with six following attributes:
 
-    *movie_title
-    *release_data
-    *genre
-    *mpaa_rating
-    *total_gross
-    *inflation_adjusted gross
+    1.movie_title
+    2.release_data
+    3.genre
+    4.mpaa_rating
+    5.total_gross
+    6.inflation_adjusted gross
